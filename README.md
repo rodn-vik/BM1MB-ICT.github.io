@@ -18,9 +18,7 @@ This website was made specifically for ICT (and perhaps for fun), this website i
 ![ezgif-2-d2812f19ca (1)](https://github.com/user-attachments/assets/0d9151e7-bc93-4ccf-b5aa-48bdec560da3)
 
 # FOR VIDEO BLOG #
- [The Ant Walkers Of Hiroshima]
-(https://img.youtube.com/vi/IK19NTfWvNM/maxresdefault.jpg)]
-(https://www.youtube.com/watch?v=IK19NTfWvNM)
+ [https://i.ytimg.com/an_webp/IK19NTfWvNM/mqdefault_6s.webp?du=3000&sqp=CJ2WuLgG&rs=AOn4CLBCd1AM63Sd2ViP6dzaHNFBfMU0Sw](https://www.youtube.com/watch?v=IK19NTfWvNM)
 
 # PLACEHOLDER 1 #
 
