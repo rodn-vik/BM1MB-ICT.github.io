@@ -16,8 +16,8 @@ This website was made specifically for ICT (and perhaps for fun), this website i
 - 5 : FILES/LINKS 
 
 # FOR VIDEO BLOG #
-
-
+> placeholder tong video na to whahwha
+https://github.com/user-attachments/assets/984b377a-3a1e-4c86-9a20-9f2d7e417650
 
 # PLACEHOLDER 1 #
 
