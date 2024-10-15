@@ -18,7 +18,10 @@ This website was made specifically for ICT (and perhaps for fun), this website i
 ![ezgif-2-d2812f19ca (1)](https://github.com/user-attachments/assets/0d9151e7-bc93-4ccf-b5aa-48bdec560da3)
 
 # FOR VIDEO BLOG #
- [![pixabaytest6-7](https://github.com/user-attachments/assets/ad6a372e-e07d-4720-934e-310bebdf03a9)](https://www.youtube.com/watch?v=IK19NTfWvNM)
+> placeholder para sa talagang video blog lol
+![HIROSHIMA THUMBNAIL IMAGE - Tyler Bamford-2](https://github.com/user-attachments/assets/2361b137-d212-4fa4-8d61-c284400cee5e)
+
+[YOUTUBE LINK:](https://www.youtube.com/watch?v=IK19NTfWvNM)
 
 # PLACEHOLDER 1 #
 
