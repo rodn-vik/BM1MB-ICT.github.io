@@ -43,6 +43,12 @@ This website was made specifically for ICT (and perhaps for fun), this website i
 ## RESEARCH FILES
 [ BM1MB_G2_FILES ](https://drive.google.com/drive/folders/1h05xLkq-YhtVpwv9zn5M1U5nAsqwpvkW?usp=drive_link)
 
+## SOCIALS OF AUTHOR
+[ FACEBOOK ](https://www.facebook.com/rodney.solla/)
+
+[ INSTAGRAM ](https://www.instagram.com/rodman.sol/)
+
+[ GITHUB ](https://github.com/rodn-vik)
 
 
 
