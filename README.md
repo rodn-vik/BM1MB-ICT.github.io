@@ -34,7 +34,7 @@ This website was made specifically for ICT (and perhaps for fun), this website i
 
 
 
-# FILES (GOOGLE DRIVE) #
+# FILES/LINKS #
 
 ## OFFICIAL AICS WEBSITE
 [Asian Institute of Computer Studies](https://aics.edu.ph/)
