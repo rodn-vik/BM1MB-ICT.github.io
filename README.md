@@ -19,6 +19,8 @@ This website was made specifically for ICT (and perhaps for fun), this website i
 
 # FOR VIDEO BLOG #
  
+(https://img.youtube.com/vi/IK19NTfWvNM/maxresdefault.jpg)]
+(https://www.youtube.com/watch?v=IK19NTfWvNM)
 
 
 # PLACEHOLDER 1 #
