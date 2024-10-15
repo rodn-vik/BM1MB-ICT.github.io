@@ -1,3 +1,6 @@
+![60892723_2203009416479539_6970087186687328256_n](https://github.com/user-attachments/assets/2449bea0-19ca-46cc-af72-5186432826ff)
+
+
 # WHAT IS THIS WEBSITE FOR?
 This website was made specifically for ICT (and perhaps for fun), this website is also for organizing files, and for research. Happy Browsing!
 
