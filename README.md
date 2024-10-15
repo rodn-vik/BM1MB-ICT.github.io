@@ -22,7 +22,8 @@ This website was made specifically for ICT (and perhaps for fun), this website i
 
 # MEMBERS #
 
-
+## LEADER : SOLLA RODNEY JEREMIAH
+![480 (1)](https://github.com/user-attachments/assets/7087ac86-84d8-4ad2-bcd6-dbf9cedb0639)
 
 # FILES (GOOGLE DRIVE) #
 
