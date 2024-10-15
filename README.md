@@ -1,6 +1,6 @@
-# miss ko nasya
-## bakit?
+# BM1MB 
+## FOR ICT PURPOSES
 
-- miss ko na talaga sya
-- pwet mo regacho
+
+
 
