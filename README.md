@@ -18,7 +18,7 @@ This website was made specifically for ICT (and perhaps for fun), this website i
 ![ezgif-2-d2812f19ca (1)](https://github.com/user-attachments/assets/0d9151e7-bc93-4ccf-b5aa-48bdec560da3)
 
 # FOR VIDEO BLOG #
- [https://i.ytimg.com/an_webp/IK19NTfWvNM/mqdefault_6s.webp?du=3000&sqp=CJ2WuLgG&rs=AOn4CLBCd1AM63Sd2ViP6dzaHNFBfMU0Sw](https://www.youtube.com/watch?v=IK19NTfWvNM)
+ [![pixabaytest6-7](https://github.com/user-attachments/assets/ad6a372e-e07d-4720-934e-310bebdf03a9)](https://www.youtube.com/watch?v=IK19NTfWvNM)
 
 # PLACEHOLDER 1 #
 
