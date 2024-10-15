@@ -6,12 +6,14 @@ This website was made specifically for ICT (and perhaps for fun), this website i
 
 > THIS WEBSITE IS A STATIC WEBSITE (NOT A MULTIPAGE ONE) I CANT PROGRAM HTML YET FYI
 
+> RESEARCH FILES WILL BE INSIDE THE "FILES/LINKS" CATEGORY
+
 # CATEGORIES:
 - 1 : VIDEO BLOG (IMPLEMENTATION 2)
 - 2 : PLACEHOLDER1
 - 3 : PLACEHOLDER2
 - 4 : MEMBERS
-- 5 : FILES (GOOGLE DRIVE)
+- 5 : FILES/LINKS 
 
 # FOR VIDEO BLOG #
 
@@ -32,7 +34,13 @@ This website was made specifically for ICT (and perhaps for fun), this website i
 
 # FILES (GOOGLE DRIVE) #
 
+## OFFICIAL AICS WEBSITE
+[Asian Institute of Computer Studies](https://aics.edu.ph/)
+
+
+## RESEARCH FILES
 [ BM1MB_G2_FILES ](https://drive.google.com/drive/folders/1h05xLkq-YhtVpwv9zn5M1U5nAsqwpvkW?usp=drive_link)
+
 
 
 
