@@ -54,9 +54,9 @@ This website was made specifically for ICT (and perhaps for fun), this website i
 > Put in our references, sources, everything that our information came from in the google document
 > **References**
 
+# THIS PICTURE WILL BE FOR TASK 5 ONLY. MEMBERS LISTED UNDER WILL BE HELPING IN HERE.
 ![image](https://github.com/user-attachments/assets/b6358420-d321-446e-b969-0da08144677d)
 
-# MEMBERS THAT ARE LISTED UNDER WILL BE DOING THE TASKS IN THIS PICTURE.
 
 ## TASK 5
 ### Agita, Saclao, Gutang, Solla, Balaguer
