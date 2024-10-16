@@ -40,7 +40,7 @@ wala pang video blog
 
 > Summary of the research materials with images and pictures.
 > You must summarize the researched materials, in our document file.
-> 
+> **Summary of the research materials with images and pictures.**
 
 ## TASK 3 
 ### Arquio, Barrientos, Delera
