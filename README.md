@@ -19,7 +19,7 @@ This website was made specifically for ICT (and perhaps for fun), this website i
 # FOR VIDEO BLOG #
 wala pang video blog 
 
-[YOUTUBE LINK](https://www.youtube.com/watch?v=IK19NTfWvNM)
+
 
 # TASKS (will be updated if any changes are commited) #
 
