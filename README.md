@@ -17,14 +17,14 @@ This website was made specifically for ICT (and perhaps for fun), this website i
 ![ezgif-2-d2812f19ca (1)](https://github.com/user-attachments/assets/0d9151e7-bc93-4ccf-b5aa-48bdec560da3)
 
 # FOR VIDEO BLOG #
-> PARA SA TALAGANG VIDEO BLOG (PLACEHOLDER LANG TO BOSS)
-![HIROSHIMA THUMBNAIL IMAGE - Tyler Bamford-2](https://github.com/user-attachments/assets/2361b137-d212-4fa4-8d61-c284400cee5e)
+wala pang video blog 
 
 [YOUTUBE LINK](https://www.youtube.com/watch?v=IK19NTfWvNM)
 
 # TASKS (will be updated if any changes are commited) #
 
-# FOR RESEARCH 
+# FOR RESEARCH TOPIC : ICT'S HELP FOR DISASTER PREPAREDNESS AND RESPONSE. (SPECIFICALLY FOR STORMS ETC.)
+
 
 ![image](https://github.com/user-attachments/assets/1d98e183-62a2-4886-90ae-960f02898645)
 
