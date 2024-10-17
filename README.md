@@ -1,24 +1,18 @@
 ![60892723_2203009416479539_6970087186687328256_n](https://github.com/user-attachments/assets/2449bea0-19ca-46cc-af72-5186432826ff)
 
 
-# WHAT IS THIS WEBSITE FOR?
-This website was made specifically for ICT (and perhaps for fun), this website is also for organizing files, and for research. Happy Browsing!
+
 
 > THIS WEBSITE IS A STATIC WEBSITE 
 
 > RESEARCH FILES WILL BE INSIDE THE "FILES/LINKS" CATEGORY
 
 # CATEGORIES:
-- 1 : VIDEO BLOG (IMPLEMENTATION 2)
-- 2 : TASKS
-- 3 : MEMBERS
-- 4 : FILES/LINKS 
+- 1 : TASKS
+- 2 : MEMBERS
+- 3 : FILES/LINKS 
 
 ![ezgif-2-d2812f19ca (1)](https://github.com/user-attachments/assets/0d9151e7-bc93-4ccf-b5aa-48bdec560da3)
-
-# FOR VIDEO BLOG #
-wala pang video blog 
-
 
 
 # TASKS (will be updated if any changes are commited) #
