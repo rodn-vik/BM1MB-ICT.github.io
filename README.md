@@ -17,7 +17,7 @@
 
 # TASKS (will be updated if any changes are commited) #
 
-# FOR RESEARCH TOPIC : ICT'S HELP FOR DISASTER PREPAREDNESS AND RESPONSE. (SPECIFICALLY FOR STORMS ETC.)
+# FOR RESEARCH TOPIC : ICT'S HELP FOR DISASTER PREPAREDNESS AND RESPONSE. 
 
 
 ![image](https://github.com/user-attachments/assets/1d98e183-62a2-4886-90ae-960f02898645)
