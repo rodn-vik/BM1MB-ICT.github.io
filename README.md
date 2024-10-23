@@ -25,28 +25,29 @@
 ## TASK 1
 ### Solla, Balaguer, Lacsamana
 
-> Make the survey (must be passed around before wednesday next week)
-> Do the **Title Page**, **Table of Contents**,  **The initial reflection done before doing the research**.
-> INITIAL REFLECTION must be done before the survey results are released
+* Make the survey (must be passed around before wednesday next week)
+* Do the **Title Page**, **Table of Contents**,  **The initial reflection done before doing the research**.
+* INITIAL REFLECTION must be done before the survey results are released
 
 ## TASK 2
 ### Are, Sta. Maria, Pangalinon
 
-> Summary of the research materials with images and pictures.
-> You must summarize the researched materials, in our document file.
-> **Summary of the research materials with images and pictures.**
+* Summary of the research materials with images and pictures.
+* You must summarize the researched materials, in our document file.
+* Write me paragraphs that are about the topic (send sa messenger)
+* **Summary of the research materials with images and pictures.**
 
 ## TASK 3 
 ### Arquio, Barrientos, Delera
-> Find Sources that are relating to our research topic
-> **Final reaction and conclusion for the topic selected**
+* Find Sources that are relating to our research topic
+* **Final reaction and conclusion for the topic selected**
 
 ## TASK 4 
 
 ### Acta, Regacho
 
-> Put in our references, sources, everything that our information came from in the google document
-> **References**
+* Put in our references, sources, everything that our information came from in the google document
+* **References**
 
 # THIS PICTURE WILL BE FOR TASK 5 ONLY. MEMBERS LISTED UNDER WILL BE HELPING IN HERE.
 ![image](https://github.com/user-attachments/assets/b6358420-d321-446e-b969-0da08144677d)
@@ -55,7 +56,7 @@
 ## TASK 5
 ### Agita, Saclao, Gutang, Solla, Balaguer
 
-> Magtutulungan po tayo na sagutin po iyan lahat 1-5.
+* Magtutulungan po tayo na sagutin po iyan lahat 1-5.
 
 
 
