@@ -32,9 +32,9 @@
 ## TASK 2
 ### Are, Sta. Maria, Pangalinon
 
+* Write me a paragraph tungkol sa topic (ETO DAPAT MAUUNA) (SA SUSUNOD NA ANG IBA)
 * Summary of the research materials with images and pictures.
 * You must summarize the researched materials, in our document file.
-* Write me paragraphs that are about the topic (send sa messenger)
 * **Summary of the research materials with images and pictures.**
 
 ## TASK 3 
