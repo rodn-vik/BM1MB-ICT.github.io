@@ -3,9 +3,7 @@
 
 
 
-> THIS WEBSITE IS A STATIC WEBSITE 
 
-> RESEARCH FILES WILL BE INSIDE THE "FILES/LINKS" CATEGORY
 
 # CATEGORIES:
 - 1 : TASKS
@@ -14,8 +12,6 @@
 
 ![ezgif-2-d2812f19ca (1)](https://github.com/user-attachments/assets/0d9151e7-bc93-4ccf-b5aa-48bdec560da3)
 
-
-# TASKS (will be updated if any changes are commited) #
 
 # FOR RESEARCH TOPIC : ICT'S HELP FOR DISASTER PREPAREDNESS AND RESPONSE. 
 
